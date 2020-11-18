@@ -8,4 +8,11 @@ Numpy <br>
 matplotlib <br>
 beautifulsoup <br>
 
-## 
+## Data Prep
+<ul>
+  <li>Import data
+  <li>Handle null values
+  <li>
+</ul>
+
+## Statistical Analysis
